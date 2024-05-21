@@ -1,0 +1,33 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/mhepatocellular-primary-malignancy_liver---primary.py
+inputModule3:
+  class: File
+  path: python/primary-malignancy_liver-carcinoma---primary.py
+inputModule4:
+  class: File
+  path: python/primary-malignancy_liver-history---primary.py
+inputModule5:
+  class: File
+  path: python/primary-malignancy_liver-angiosarcoma---primary.py
+inputModule6:
+  class: File
+  path: python/primary-malignancy_liver-specified---primary.py
+inputModule7:
+  class: File
+  path: python/primary-malignancy_liver-mhepatoma---primary.py
+inputModule8:
+  class: File
+  path: python/primary-malignancy_liver-hepatoblastoma---primary.py
+inputModule9:
+  class: File
+  path: python/primary-malignancy_liver-neoplasm---primary.py
+inputModule10:
+  class: File
+  path: python/liver---primary.py
+inputModule11:
+  class: File
+  path: python/output-cases.py
